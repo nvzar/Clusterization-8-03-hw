@@ -13,3 +13,6 @@
 ### Ответ 
 
 ![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/redirection.png)
+![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/server2.png)
+![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/server1.png)
+![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/HAProxy.png)
