@@ -12,4 +12,4 @@
 
 ### Ответ 
 
-
+![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/redirection.png)
