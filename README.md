@@ -31,4 +31,5 @@
 
 Файл конфигурации
 [haproxy.cfg](https://github.com/nvzar/Clusterization-8-03-hw/blob/main/haproxy.cfg)
-![haproxy config screenshot](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/haproxy.cfg.screen.png)
+
+![Описание картинки](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/screnshots.png)
