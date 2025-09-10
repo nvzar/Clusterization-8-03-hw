@@ -29,7 +29,9 @@
 
 ### Ответ
 
-Файл конфигурации [haproxy.cfg](https://github.com/nvzar/Clusterization-8-03-hw/blob/main/haproxy.cfg)
-![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/haproxy.cfg. scren.png)
+Файл конфигурации
+[haproxy.cfg](https://github.com/nvzar/Clusterization-8-03-hw/blob/main/haproxy.cfg)
+---
 
+![redirection](https://raw.githubusercontent.com/nvzar/Clusterization-8-03-hw/main/img/haproxy.cfg.screen.png)
 
